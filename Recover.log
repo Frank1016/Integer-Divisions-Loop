@@ -1,0 +1,4 @@
+﻿Timestamp	Filename	Error	Message
+2020-11-17 05:52:26.024 -0500	uBot_Binance.fmp12	0	*** Started consistency check of improperly closed file, total of 66 block(s) to check
+2020-11-17 05:52:26.024 -0500	uBot_Binance.fmp12	0	Reset maximum block sequence number to 45441
+2020-11-17 05:52:26.024 -0500	uBot_Binance.fmp12	0	*** Completed consistency check, checked 66 block(s)
